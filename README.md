@@ -1,9 +1,8 @@
 # Recommender ML System Project
 
-Produced on GitLab McGill MIMI server. This is a collaborative project, credit to members.
+This project is a collaborative academic team project on McGill University infrastructure; it is showcased here to emphasizes evaluation, deployment governance, and monitoring aspects of a production-oriented ML system.
 
 Members: Élodie Côté-Gauthier, Daria Vorsina, Ziling Cheng, Sarah Al Taleb, Evan Jiang
-
 
 ## Movie Recommendation System Project Overview
 
