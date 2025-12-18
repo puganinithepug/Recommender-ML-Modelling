@@ -27,8 +27,8 @@ We containerize the inference service with Docker.
 ## To get started
 - Clone the repository:
 ``` bash
-    git clone https://gitlab.cs.mcgill.ca/comp585_2025f/team-2
-    cd team-2
+    git clone
+    cd Recommender-ML
 ```
 - Set up:
 ```bash
